@@ -1,3 +1,3 @@
 # PxStatLocal
 
-Testing changing a repository in github desktop.
+Testing changing a repository in the github desktop.
